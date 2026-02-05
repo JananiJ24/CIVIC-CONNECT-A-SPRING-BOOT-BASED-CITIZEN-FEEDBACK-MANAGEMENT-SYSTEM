@@ -79,3 +79,19 @@ Project follows **MVC Architecture**
 - Repository – Data Access Layer  
 
 ---
+📈 Performance
+
+Response time < 2 sec
+Supports 50+ concurrent users
+Optimized JPA queries
+Secure authentication
+
+🌟 Future Enhancements
+
+Email notification
+SMS alerts
+Sentiment analysis
+Mobile app integration
+
+👩‍💻 Contributors
+Janani J 
